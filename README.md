@@ -1,7 +1,7 @@
 Express & ES6 REST API Boilerplate
 ==================================
 
-pow wow
+pow wow!!
 
 This is a straightforward boilerplate for building REST APIs with ES6 and Express.
 
