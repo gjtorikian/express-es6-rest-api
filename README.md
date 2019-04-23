@@ -1,6 +1,8 @@
 Express & ES6 REST API Boilerplate
 ==================================
 
+pow wow
+
 This is a straightforward boilerplate for building REST APIs with ES6 and Express.
 
 - ES6 support via [babel](https://babeljs.io)
@@ -47,7 +49,7 @@ docker run -p 8080:8080 es6/api-service
 #                 ^            ^
 #          bind the port    container tag
 #          to your host
-#          machine port   
+#          machine port
 
 ```
 
